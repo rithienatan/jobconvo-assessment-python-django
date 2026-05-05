@@ -1,0 +1,13 @@
+# Python and Django ingore folders and files: Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+db.sqlite3
+*.sqlite3
+.DS_Store
